@@ -3,6 +3,8 @@
     <Banner />
     <TrustedByMany/>
     <HealNaturally/>
+    <Offer/>
+    <Dashboard/>
     <Footer />
   </div>
 </template>
@@ -11,6 +13,8 @@
 import Banner from "../components/Banner.vue";
 import TrustedByMany from "../components/TrustedByMany.vue";
 import HealNaturally from "../components/HealNaturally.vue";
+import Offer from "../components/Offer.vue";
+import Dashboard from "../components/Dashboard.vue";
 import Footer from "./Footer.vue";
 export default {
   name: "Home",
@@ -18,7 +22,9 @@ export default {
     Banner,
     Footer,
     TrustedByMany,
-    HealNaturally
+    HealNaturally,
+    Offer,
+    Dashboard
   },
 };
 </script>
