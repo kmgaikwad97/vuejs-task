@@ -104,12 +104,4 @@ export default {
     font-size: 80%;
 }
 
-@media only screen and (max-width: 576px) {
-    /* .wellness-data{
-        margin-right: 0%;
-    }
-    .wellness-datas{
-        margin-left: 0%;
-    } */
-}
 </style>

@@ -81,7 +81,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .footer-icon {
     color: #f28737;
 }

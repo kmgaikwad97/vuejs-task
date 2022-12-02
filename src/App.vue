@@ -25,7 +25,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#"
+              <a class="nav-link" aria-current="page" href="#"
                 >Our Products</a
               >
             </li>
@@ -42,7 +42,7 @@
               <a class="nav-link me-2 ms-2" href="#">Books</a>
             </li>
             <li class="nav-item">
-              <button type="button" class="btn btn-secondary">
+              <button type="button" class="btn sign-in-btn btn-secondary">
                 Sign in/Sign up
               </button>
             </li>
@@ -57,6 +57,14 @@
 </template>
 
 <style>
+.sign-in-btn{
+  background: #DCDCDC !important;
+  color: black !important;
+    border: #DCDCDC !important;
+    /* font-size: 11px !important; */
+    font-weight: 300 !important;
+}
+
 /* #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

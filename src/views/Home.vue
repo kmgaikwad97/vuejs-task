@@ -6,6 +6,7 @@
     <HealNaturally/>
     <Wellness/>
     <HealthPlan/>
+    <Work/>
     <Offer/>
     <Dashboard/>
     <Footer />
@@ -19,6 +20,7 @@ import LifeCycleCost from "../components/LifeCycleCost.vue";
 import HealNaturally from "../components/HealNaturally.vue";
 import Wellness from "../components/Wellness.vue";
 import HealthPlan from "../components/HealthPlan.vue";
+import Work from "../components/Work.vue";
 import Offer from "../components/Offer.vue";
 import Dashboard from "../components/Dashboard.vue";
 import Footer from "./Footer.vue";
@@ -34,6 +36,7 @@ export default {
     Offer,
     Dashboard,
     LifeCycleCost,
+    Work
   },
 };
 </script>

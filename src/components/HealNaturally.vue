@@ -62,7 +62,7 @@
                     </div>
                     <div class="col-3 natural-box text-center">
                         <div class="bottle-medicine p-3 text-center text-align-center rounded">
-                            <img class="ps-1 pt-1" src="../assets/images/Pills.png" style="width:30px" alt="">
+                            <img src="../assets/images/homeopathy.png" style="width:15px" alt="">
                         </div>
                         <span>Psychology</span>
                     </div>
