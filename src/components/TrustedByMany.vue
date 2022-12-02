@@ -5,16 +5,20 @@
         Trusted By Many
       </h3>
       <div class="trust-box py-4 row">
-        <div class="trust-once col col-sm mx-md-3 my-4 mx-0">
+        <!-- <div class="trust-once col col-sm mx-md-3 my-4 mx-0"> -->
+        <div class="trust-once col col-sm my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
-        <div class="trust-once col col-sm mx-md-3 my-4 mx-0">
+        <!-- <div class="trust-once col col-sm mx-md-3 my-4 mx-0"> -->
+        <div class="trust-once col col-sm my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
-        <div class="trust-once col col-sm mx-md-3 my-4 mx-0">
+        <!-- <div class="trust-once col col-sm mx-md-3 my-4 mx-0"> -->
+        <div class="trust-once col col-sm my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
-        <div class="trust-once col col-sm mx-md-3 my-4 mx-0">
+        <!-- <div class="trust-once col col-sm mx-md-3 my-4 mx-0"> -->
+        <div class="trust-once col col-md-3 mx-md-3 my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
       </div>
