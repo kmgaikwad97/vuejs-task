@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="trusted-bg">
     <div class="container py-5 px-md-3 px-5 text-center">
       <h3 class="py-4 text-uppercase" style="color: #284948">
         Trusted By Many
@@ -44,6 +44,10 @@ export default {};
 .trust-box .trust-once .trusted-colors:nth-child(4){
     background: #41345F;
 } */
+
+.trusted-bg{
+  background:#FBFEE9;
+}
 
 .trust-box .trust-once:nth-child(1) .trusted-colors,
 .trust-box .trust-once:nth-child(2) .trusted-colors,

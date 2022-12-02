@@ -79,7 +79,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .natural-content{
     padding-top:50px;
     padding-bottom:50px;

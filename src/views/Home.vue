@@ -4,6 +4,7 @@
     <TrustedByMany/>
     <LifeCycleCost/>
     <HealNaturally/>
+    <Wellness/>
     <HealthPlan/>
     <Offer/>
     <Dashboard/>
@@ -16,6 +17,7 @@ import Banner from "../components/Banner.vue";
 import TrustedByMany from "../components/TrustedByMany.vue";
 import LifeCycleCost from "../components/LifeCycleCost.vue";
 import HealNaturally from "../components/HealNaturally.vue";
+import Wellness from "../components/Wellness.vue";
 import HealthPlan from "../components/HealthPlan.vue";
 import Offer from "../components/Offer.vue";
 import Dashboard from "../components/Dashboard.vue";
@@ -27,10 +29,11 @@ export default {
     Footer,
     TrustedByMany,
     HealNaturally,
+    Wellness,
     HealthPlan,
     Offer,
     Dashboard,
-    LifeCycleCost
+    LifeCycleCost,
   },
 };
 </script>
