@@ -2,7 +2,7 @@
 <footer style="background: #284948">
     <div class="container py-5 px-lg-3 px-5">
         <div class="row">
-            <div class="col-12 col-lg-4">
+            <div class="col-12 col-sm-6 col-md-4 col-lg">
                 <strong class="text-white">Reach Out to us</strong> <br />
                 <span class="text-white">Lorem epsum Ptv Ltd.</span> <br />
 
@@ -22,7 +22,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-lg pt-5 text-white">
+            <div class="col-12 col-sm-6 col-md-4 col-lg pt-5 text-white">
                 <h5>About</h5>
                 <ul class="list-unstyled about-data text-start">
                     <li><a>Contact Us</a></li>
@@ -34,7 +34,7 @@
                 </ul>
             </div>
 
-            <div class="col-12 col-lg pt-5 text-white">
+            <div class="col-12 col-sm-6 col-md-4 col-lg pt-5 text-white">
                 <h5>Policy Info</h5>
                 <ul class="list-unstyled about-data text-start">
                     <li><a>Privacy Policy</a></li>
@@ -43,7 +43,7 @@
                 </ul>
             </div>
 
-            <div class="col-12 col-lg pt-5 text-white">
+            <div class="col-12 col-sm-6 col-md-4 col-lg pt-5 text-white">
                 <h5>Need Help?</h5>
                 <ul class="list-unstyled about-data text-start">
                     <li><a>FAQs</a></li>
@@ -53,7 +53,7 @@
                 <button class="btn btn-warning reqbtn">REQUEST DEMO</button>
             </div>
 
-            <div class="col-12 col-lg-3 pt-5 text-white">
+            <div class="col-12 col-sm-6 col-md-4 col-lg pt-5 text-white">
                 <h5>Subscribe Our Newsletter</h5>
                 <div class="input-group mb-3">
                     <input type="text" class="form-control" placeholder="Enter Your Email" aria-label="Recipient's username" aria-describedby="button-addon2" />
