@@ -73,7 +73,7 @@ export default {};
       font-size: 16px;
     }
     .reqbtn{
-      font-size:small
+      font-size:10px !important;
     }
 }
 
