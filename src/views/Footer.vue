@@ -93,6 +93,11 @@ export default {};
     font-size: 11px !important;
     font-weight: 400 !important;
 }
+.reqbtn:hover{
+    background:#df670d !important;
+    border: #df670d !important;
+
+}
 
 .about-data li a {
     font-weight: 300;
@@ -109,11 +114,14 @@ padding-bottom: 5px;
     color: white;
     border: #f28737 !important;
 }
+.newsletter-btn:hover{
+    background:#df670d !important;
+    border: #df670d !important;
+}
 
 .location::marker,
 .phone::marker,
 .email::marker {
-    /* position: absolute; */
     font-family: FontAwesome;
     content: "\f3c5";
     color: #f28737;

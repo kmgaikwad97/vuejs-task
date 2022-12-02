@@ -11,7 +11,6 @@
                     <div class="disease-data">
                         <img src="../assets/images/tablets.png" class="img-fluid" alt="" />
                         <span class="data1 text-light">Direct Cost</span>
-                        <!-- <div class="overlay"></div> -->
                     </div>
                     <div class="disease-text">Healthcare & Mediacal Cost</div>
                 </div>
@@ -22,7 +21,6 @@
                     <div class="disease-data">
                         <img src="../assets/images/tabs.png" class="img-fluid" alt="" />
                         <span class="data2 text-light">InDirect Cost</span>
-                        <!-- <div class="overlay"></div> -->
                     </div>
                     <div class="disease-text">
                         Decrease Quality of life, pain anxiety, inconvenience &
@@ -35,7 +33,6 @@
                     <div class="disease-data">
                         <img src="../assets/images/medical.png" class="img-fluid" alt="" />
                         <span class="data3 text-light">Intangible Cost</span>
-                        <!-- <div class="overlay"></div> -->
                     </div>
                     <div class="disease-text">
                         Decrease quality of life, pain, anxiety, incovenience &
@@ -48,7 +45,6 @@
                     <div class="disease-data">
                         <img src="../assets/images/money.png" class="img-fluid" alt="" />
                         <span class="data4 text-light">Total Cost</span>
-                        <!-- <div class="overlay"></div> -->
                     </div>
                     <div class="disease-text">
                         Decrease quality of life, pain, anxiety, incovenience &
@@ -64,11 +60,9 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .disease-data {
     position: relative;
-    /* background: rgba(0, 0, 0, 0.9); */
-    /* border-radius: 12%; */
 }
 
 .signs {
@@ -93,6 +87,7 @@ export default {};
 
 .disease-data img {
     position: relative;
+    cursor:pointer;
     background: rgba(0, 0, 0, 0.7);
     border-radius: 11%;
     filter: brightness(0.5);

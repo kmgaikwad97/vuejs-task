@@ -12,7 +12,6 @@
                 <div class="py-3 work-data fw-bolder">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 </div>
-                <!-- <hr style="width:10px; height:2px; border:2px solid #DD7A1D;"> -->
                 <div class="line" style="border:1px solid #DD7A1D; width:20%; margin:0 auto;"></div>
                 <div class="py-3 work-data fw-normal">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -26,7 +25,6 @@
                 <div class="py-3 work-data fw-bolder">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 </div>
-                <!-- <hr style="width:10px; height:2px; border:2px solid #DD7A1D;"> -->
                 <div class="line" style="border:1px solid #DD7A1D; width:20%; margin:0 auto;"></div>
                 <div class="py-3 work-data fw-normal">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -43,7 +41,6 @@
                 <div class="py-3 work-data fw-bolder">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 </div>
-                <!-- <hr style="width:10px; height:2px; border:2px solid #DD7A1D;"> -->
                 <div class="line" style="border:1px solid #DD7A1D; width:20%; margin:0 auto;"></div>
                 <div class="py-3 work-data fw-normal ">
                     Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -64,7 +61,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .work {
     background: #F9F9F9;
 }
@@ -81,5 +78,9 @@ export default {
     border: #f28737 !important;
     font-size: 14px !important;
     font-weight: 400 !important;
+}
+.reqbtn:hover{
+    background:#df670d !important;
+    border: #df670d !important;
 }
 </style>

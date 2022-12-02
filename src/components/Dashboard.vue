@@ -30,9 +30,8 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .dashboard-text {
-    /* font-size: 31px; */
     font-weight: 500;
     line-height: 114%;
 }
@@ -47,6 +46,11 @@ export default {};
     border: #f28737 !important;
     font-size: 11px !important;
     font-weight: 400 !important;
+}
+
+.req-btn:hover{
+    background:#df670d !important;
+    border: #df670d !important;
 }
 
 .dashboard-white {

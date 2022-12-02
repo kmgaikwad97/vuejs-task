@@ -116,83 +116,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- <div class="row pb-4">
-        <div class="col">
-          <div class="row">
-            <div class="col ms-2 py-3 px-0" style="background:#D2E289;">
-                <img src="../assets/images/goal.png" style="width:40%;" alt="">
-            </div>
-            <div class="align-self-center ps-0 col me-2">
-                lorem ipsum
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="row">
-            <div class="col ms-2 py-3 px-0" style="background:#D2E289;">
-                <img src="../assets/images/pyramid.png" style="width:40%;" alt="">
-            </div>
-            <div class="align-self-center ps-0 col me-2">
-                lorem ipsum
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="row">
-            <div class="col ms-2 py-3 px-0" style="background:#D2E289;">
-                <img src="../assets/images/pyramid.png" style="width:40%;" alt="">
-            </div>
-            <div class="align-self-center ps-0 col me-2">
-                lorem ipsum
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="row">
-            <div class="col ms-2 py-3 px-0" style="background:#D2E289;">
-                <img src="../assets/images/pyramid.png" style="width:40%;" alt="">
-            </div>
-            <div class="align-self-center ps-0 col me-2">
-                lorem ipsum
-            </div>
-          </div>
-        </div>
-      </div>
-
-       <div class="row pb-4">
-        <div class="col-3">
-          <div class="row">
-            <div class="col ms-2 py-3 px-0" style="background:#D2E289;">
-                <img src="../assets/images/goal.png" style="width:40%;" alt="">
-            </div>
-            <div class="align-self-center ps-0 col me-2">
-                lorem ipsum
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="row">
-            <div class="col ms-2 py-3 px-0" style="background:#D2E289;">
-                <img src="../assets/images/doctor.png" style="width:40%;" alt="">
-            </div>
-            <div class="align-self-center ps-0 col me-2">
-                lorem ipsum
-            </div>
-          </div>
-        </div>
-        <div class="col-3">
-          <div class="row">
-            <div class="col ms-2 py-3 px-0" style="background:#D2E289;">
-                <img src="../assets/images/goal.png" style="width:40%;" alt="">
-            </div>
-            <div class="align-self-center ps-0 col me-2">
-                lorem ipsum
-            </div>
-          </div>
-        </div>
-      </div> -->
-
     </div>
 </div>
 </template>
@@ -201,7 +124,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .offer {
     background: url("../assets/images/HealNaturally.png");
     background-size: cover;
@@ -209,4 +132,5 @@ export default {};
     width: 100%;
     height: 100%;
 }
+
 </style>

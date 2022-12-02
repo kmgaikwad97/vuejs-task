@@ -85,6 +85,7 @@ export default {};
     padding-bottom:50px;
 }
 .bottle-medicine {
+    cursor:pointer;
     background: linear-gradient(180deg, #284948 0%, #3E8C58 100%);
     height: 75%;
 }

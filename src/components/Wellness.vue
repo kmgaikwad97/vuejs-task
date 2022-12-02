@@ -88,6 +88,7 @@ export default {
 }
 
 .bottle-medicine {
+    cursor: pointer;
     background: #41345F;
     height: 75%;
 }

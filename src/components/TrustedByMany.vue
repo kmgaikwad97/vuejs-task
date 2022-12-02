@@ -9,15 +9,12 @@
         <div class="trust-once col col-sm my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
-        <!-- <div class="trust-once col col-sm mx-md-3 my-4 mx-0"> -->
         <div class="trust-once col col-sm my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
-        <!-- <div class="trust-once col col-sm mx-md-3 my-4 mx-0"> -->
         <div class="trust-once col col-sm my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
-        <!-- <div class="trust-once col col-sm mx-md-3 my-4 mx-0"> -->
         <div class="trust-once col col-md-3 mx-md-3 my-4 mx-0">
           <div class="text-align-center p-4 trusted-colors">DummyText</div>
         </div>
@@ -31,22 +28,11 @@ export default {};
 </script>
 
 <style scoped>
-/* .trust-box .trust-once .trusted-colors:nth-child(1),.trust-box .trust-once .trusted-colors:nth-child(2),.trust-box .trust-once .trusted-colors:nth-child(3),.trust-box .trust-once .trusted-colors:nth-child(4){
-    background: #284948;
-    height:90px;
+.trust-once {
+  cursor: pointer;
 }
-.trust-box .trust-once .trusted-colors:nth-child(2){
-    background: #DD7A1D;
-}
-.trust-box .trust-once .trusted-colors:nth-child(3){
-    background: #3E8C58;
-}
-.trust-box .trust-once .trusted-colors:nth-child(4){
-    background: #41345F;
-} */
-
-.trusted-bg{
-  background:#FBFEE9;
+.trusted-bg {
+  background: #fbfee9;
 }
 
 .trust-box .trust-once:nth-child(1) .trusted-colors,
